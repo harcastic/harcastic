@@ -37,10 +37,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=harcastic&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harcastic&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=harcastic&icon=1&color=5)](https://visitcount.itsvg.in)
 
-
-</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
