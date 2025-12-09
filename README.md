@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AirBnb<br>👯 I’m looking to collaborate on xyz<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on AirBnb<br>👯 I’m looking to collaborate on Jharkhand Tourism<br>🌱 I’m currently learning Kubernetes <br>💬 Ask me about cloud/Devops & Web Dev<br>
 
 
 ## 🌐 Socials:
