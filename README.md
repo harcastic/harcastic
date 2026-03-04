@@ -1,5 +1,5 @@
-# 💫 About Me:
-### 🚀 What I Do
+# About Me:
+### What I Do
 🧠 Build backend systems, REST APIs, and scalable web apps  
 ⚙️ Automate deployments using **Jenkins, Docker, and AWS EC2**  
 🏗️ Develop full-stack solutions with **React, Node.js, Express**  
