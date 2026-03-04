@@ -1,11 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on BookMyStay<br>👯 I’m looking to collaborate on Jharkhand Tourism<br>🌱 I’m currently learning Kubernetes <br>💬 Ask me about cloud/Devops & Web Dev<br>
 ### 🚀 What I Do
-- 🧠 Build backend systems, REST APIs, and scalable web apps  
-- ⚙️ Automate deployments using **Jenkins, Docker, and AWS EC2**  
-- 🏗️ Develop full-stack solutions with **React, Node.js, Express**  
-- ☁️ Experiment with cloud, containers & infrastructure-as-code  
-- 💡 Solve DSA problems to strengthen core CS fundamentals  
+🧠 Build backend systems, REST APIs, and scalable web apps  
+⚙️ Automate deployments using **Jenkins, Docker, and AWS EC2**  
+🏗️ Develop full-stack solutions with **React, Node.js, Express**  
+☁️ Experiment with cloud, containers & infrastructure-as-code  
+💡 Solve DSA problems to strengthen core CS fundamentals  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj-hr007) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harsh-Raj-4880) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.raj2274@gmail.com) 
